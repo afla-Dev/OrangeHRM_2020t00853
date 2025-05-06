@@ -12,6 +12,7 @@ class DashboardPage:
     my_leave_icon_xpath = '//button[@title="My Leave"]'
     user_dropdown_xpath = '//span[@class="oxd-userdropdown-tab"]'
     logout_link_xpath = '//a[text()="Logout"]'
+    
     dashboard_page_title = "OrangeHRM"
     
     # Actions
